@@ -87,6 +87,7 @@
                 <buttons:SfButton  StrokeThickness="0" x:Name="aiButton" CornerRadius="5"  Grid.Row="1"
                                    Clicked="AIButtonClicked"  FontSize="24" HeightRequest="40" WidthRequest="40"
                                    FontAutoScalingEnabled="True"
+                                   Text="AI"
                                    HorizontalOptions="End" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
                     Loaded="image_Loaded" ToolTipProperties.Text="Forecaste future stocks" 
                     BackgroundColor="#F7F2FB"></buttons:SfButton>

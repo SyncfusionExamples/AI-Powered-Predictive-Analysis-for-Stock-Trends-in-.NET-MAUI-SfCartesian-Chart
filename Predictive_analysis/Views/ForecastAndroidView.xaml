@@ -129,7 +129,7 @@
 
             <HorizontalStackLayout  Grid.Column="1" HorizontalOptions="End">
 
-                <compobox:SfComboBox x:Name="SeriescomboBox" IsClearButtonVisible="False" SelectedIndex="0" SelectionChanged="SeriescomboBox_SelectionChanged" 
+                <compobox:SfComboBox x:Name="SeriescomboBox" IsDropdownButtonVisible="False"  IsClearButtonVisible="False" SelectedIndex="0" SelectionChanged="SeriescomboBox_SelectionChanged" 
                                    WidthRequest="100"
                                      HeightRequest="40"
                                    IsEditable="False"  
